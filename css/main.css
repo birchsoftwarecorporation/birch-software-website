@@ -67,6 +67,8 @@
   cursor: pointer;
 }
 
+.projects .card .card-img-top{
+}
 
 .card-footer{
   background-color: white;
